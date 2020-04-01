@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="2020-03-20-唐诗数据可视化:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2020_03_20__Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="2020-03-20-唐诗数据抓取模块/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="2020-03-20-唐诗数据抓取模块" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

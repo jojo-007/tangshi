@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="2020-03-20-唐诗数据可视化:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2447b80c-e181-4cc8-a168-6deac5162198" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/App/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\App\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1ZOCz1l1IMw8KDXZfougxOKveEE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/js" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.14648438" />
+    <property name="project.structure.side.proportion" value="0.24035609" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\宋娟\IdeaProjects\自主练习\2020-03-20-唐诗数据可视化\web\js" />
+      <recent name="C:\Users\宋娟\IdeaProjects\自主练习\2020-03-20-唐诗数据可视化\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MultipleThreadCatch$Job">
+    <configuration name="插入分词Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.插入分词Demo" />
+      <module name="2020-03-20-唐诗数据抓取模块" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="插入诗词Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.插入诗词Demo" />
+      <module name="2020-03-20-唐诗数据可视化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="插入分词Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.插入分词Demo" />
+      <module name="2020-03-20-唐诗数据可视化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="详情页下载提取Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.详情页下载提取Demo" />
+      <module name="2020-03-20-唐诗数据可视化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分词Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.分词Demo" />
+      <module name="2020-03-20-唐诗数据可视化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="插入诗词Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.插入诗词Demo" />
+      <module name="2020-03-20-唐诗数据可视化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java配置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.Java配置" />
+      <module name="2020-03-20-唐诗数据抓取模块" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleThreadCatch$Job" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultipleThreadCatch$Job" />
+      <module name="2020-03-20-唐诗数据抓取模块" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="2020-03-20-唐诗数据抓取模块" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="2020-03-20-唐诗数据抓取模块" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/web/js/index.js" working-dir="$PROJECT_DIR$/web/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="jquery-3.3.1.min.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/web/js/jquery-3.3.1.min.js" working-dir="$PROJECT_DIR$/web/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/2020_03_20__Web_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="2020-03-20-唐诗数据可视化:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/2020_03_20__Web_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_2020-03-20-唐诗数据可视化" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64256" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="2020-03-20-唐诗数据可视化:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.插入分词Demo" />
+      <item itemvalue="Application.Java配置" />
+      <item itemvalue="Application.MultipleThreadCatch$Job" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.jquery-3.3.1.min.js" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.47" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultipleThreadCatch$Job" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.jquery-3.3.1.min.js" />
+        <item itemvalue="Application.插入分词Demo" />
+        <item itemvalue="Application.Java配置" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="完成" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2447b80c-e181-4cc8-a168-6deac5162198" name="默认更改列表" comment="" />
+      <created>1584701014681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584701014681</updated>
+      <workItem from="1584701052976" duration="10000" />
+      <workItem from="1584701202558" duration="5278000" />
+      <workItem from="1584801176030" duration="568000" />
+      <workItem from="1584883317569" duration="452000" />
+      <workItem from="1584929388903" duration="7943000" />
+      <workItem from="1584974070322" duration="424000" />
+      <workItem from="1585032279660" duration="2741000" />
+      <workItem from="1585036014207" duration="11738000" />
+      <workItem from="1585056109416" duration="1049000" />
+      <workItem from="1585095946486" duration="1993000" />
+      <workItem from="1585144552486" duration="97000" />
+      <workItem from="1585206273217" duration="7298000" />
+      <workItem from="1585384747267" duration="259000" />
+      <workItem from="1585470881316" duration="8199000" />
+      <workItem from="1585493834503" duration="378000" />
+      <workItem from="1585533173617" duration="3064000" />
+      <workItem from="1585536618232" duration="2949000" />
+      <workItem from="1585635037400" duration="7584000" />
+      <workItem from="1585645172998" duration="4863000" />
+      <workItem from="1585658382179" duration="1430000" />
+      <workItem from="1585660066946" duration="105000" />
+      <workItem from="1585705637710" duration="695000" />
+      <workItem from="1585706488566" duration="1699000" />
+      <workItem from="1585711756847" duration="1500000" />
+      <workItem from="1585721762070" duration="4191000" />
+      <workItem from="1585726466838" duration="773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="72" key="#HTTP_Proxy" timestamp="1585042092602">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="301" y="72" key="#HTTP_Proxy/0.0.1418.798@0.0.1418.798" timestamp="1585042092602" />
+    <state x="511" y="72" width="861" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585723653719">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="511" y="72" width="861" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1418.798@0.0.1418.798" timestamp="1585723653719" />
+    <state x="906" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585640942896">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="906" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1418.798@0.0.1418.798" timestamp="1585640942896" />
+    <state x="473" y="313" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1585645611488">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="473" y="313" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1418.798@0.0.1418.798" timestamp="1585645611488" />
+    <state x="439" y="146" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585724873794">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="439" y="146" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1418.798@0.0.1418.798" timestamp="1585724873794" />
+    <state x="430" y="85" key="#index.js" timestamp="1585724647788">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="430" y="85" key="#index.js/0.0.1418.798@0.0.1418.798" timestamp="1585724647788" />
+    <state x="301" y="57" key="#项目结构" timestamp="1585040775050">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="301" y="57" key="#项目结构/0.0.1418.798@0.0.1418.798" timestamp="1585040775050" />
+    <state x="526" y="154" key="FileChooserDialogImpl" timestamp="1585707789952">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="526" y="154" key="FileChooserDialogImpl/0.0.1418.798@0.0.1418.798" timestamp="1585707789952" />
+    <state width="1374" height="535" key="GridCell.Tab.0.bottom" timestamp="1585727268102">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="535" key="GridCell.Tab.0.bottom/0.0.1418.798@0.0.1418.798" timestamp="1585727268102" />
+    <state width="1374" height="535" key="GridCell.Tab.0.center" timestamp="1585727268102">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="535" key="GridCell.Tab.0.center/0.0.1418.798@0.0.1418.798" timestamp="1585727268102" />
+    <state width="1374" height="535" key="GridCell.Tab.0.left" timestamp="1585727268102">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="535" key="GridCell.Tab.0.left/0.0.1418.798@0.0.1418.798" timestamp="1585727268102" />
+    <state width="1374" height="535" key="GridCell.Tab.0.right" timestamp="1585727268102">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="535" key="GridCell.Tab.0.right/0.0.1418.798@0.0.1418.798" timestamp="1585727268102" />
+    <state width="433" height="417" key="GridCell.Tab.1.bottom" timestamp="1585646891223">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="433" height="417" key="GridCell.Tab.1.bottom/0.0.1418.798@0.0.1418.798" timestamp="1585646891223" />
+    <state width="433" height="417" key="GridCell.Tab.1.center" timestamp="1585646891222">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="433" height="417" key="GridCell.Tab.1.center/0.0.1418.798@0.0.1418.798" timestamp="1585646891222" />
+    <state width="433" height="417" key="GridCell.Tab.1.left" timestamp="1585646891222">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="433" height="417" key="GridCell.Tab.1.left/0.0.1418.798@0.0.1418.798" timestamp="1585646891222" />
+    <state width="433" height="417" key="GridCell.Tab.1.right" timestamp="1585646891222">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="433" height="417" key="GridCell.Tab.1.right/0.0.1418.798@0.0.1418.798" timestamp="1585646891222" />
+    <state width="433" height="417" key="GridCell.Tab.2.bottom" timestamp="1585646891223">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="433" height="417" key="GridCell.Tab.2.bottom/0.0.1418.798@0.0.1418.798" timestamp="1585646891223" />
+    <state width="433" height="417" key="GridCell.Tab.2.center" timestamp="1585646891223">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="433" height="417" key="GridCell.Tab.2.center/0.0.1418.798@0.0.1418.798" timestamp="1585646891223" />
+    <state width="433" height="417" key="GridCell.Tab.2.left" timestamp="1585646891223">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="433" height="417" key="GridCell.Tab.2.left/0.0.1418.798@0.0.1418.798" timestamp="1585646891223" />
+    <state width="433" height="417" key="GridCell.Tab.2.right" timestamp="1585646891223">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="433" height="417" key="GridCell.Tab.2.right/0.0.1418.798@0.0.1418.798" timestamp="1585646891223" />
+    <state x="197" y="5" width="1038" height="775" key="SettingsEditor" timestamp="1585724325417">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="197" y="5" width="1038" height="775" key="SettingsEditor/0.0.1418.798@0.0.1418.798" timestamp="1585724325417" />
+    <state x="797" y="298" width="439" height="231" key="WebDeployment.AddServerDialog.v.1" timestamp="1585707748858">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="797" y="298" width="439" height="231" key="WebDeployment.AddServerDialog.v.1/0.0.1418.798@0.0.1418.798" timestamp="1585707748858" />
+    <state x="312" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1585726522484">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="312" y="288" key="com.intellij.ide.util.TipDialog/0.0.1418.798@0.0.1418.798" timestamp="1585726522484" />
+    <state x="658" y="191" width="564" height="416" key="jetbrains.nodejs.interpreters-dialog" timestamp="1585707790970">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="658" y="191" width="564" height="416" key="jetbrains.nodejs.interpreters-dialog/0.0.1418.798@0.0.1418.798" timestamp="1585707790970" />
+    <state x="102" y="27" key="new project wizard" timestamp="1585727257583">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="102" y="27" key="new project wizard/0.0.1418.798@0.0.1418.798" timestamp="1585727257583" />
+    <state x="390" y="245" width="710" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585032552695">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="390" y="245" width="710" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1418.798@0.0.1418.798" timestamp="1585032552695" />
+    <state x="758" y="119" width="672" height="678" key="search.everywhere.popup" timestamp="1585473765394">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="758" y="119" width="672" height="678" key="search.everywhere.popup/0.0.1418.798@0.0.1418.798" timestamp="1585473765394" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2020_03_20_$CountDownLatchDemo.ic" NAME="CountDownLatchDemo Coverage Results" MODIFIED="1585538202359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lab.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/2020_03_20_$MultipleThreadCatch.ic" NAME="MultipleThreadCatch Coverage Results" MODIFIED="1585538702000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
